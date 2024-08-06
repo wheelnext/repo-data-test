@@ -1,0 +1,21 @@
+[providers.example_provider_1]
+version = "1.0.0"
+
+[providers.example_provider_1.variables.variable1]
+description = "This is a description"
+values = ["primary", "secondary"]
+
+[providers.example_provider_1.variables.variable2]
+description = "This is a description"
+values = ["primary", "secondary"]
+
+[providers.example_provider_2]
+version = "1.0.0"
+
+[providers.example_provider_2.variables.variable3]
+description = "This is a description"
+values = ["primary", "secondary"]
+
+[providers.example_provider_2.variables.variable4]
+description = "This is a description"
+values = ["primary", "secondary"]

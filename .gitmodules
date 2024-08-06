@@ -1,0 +1,7 @@
+[submodule "pip"]
+	path = pip
+	url = git@github.com:wheel-next/pip.git
+	branch = resolve-variant-first
+[submodule "warehouse"]
+	path = warehouse
+	url = git@github.com:wheel-next/warehouse.git

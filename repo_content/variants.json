@@ -1,0 +1,13 @@
+{
+  "providers": ["example_provider_1", "example_provider_2"],
+  "key_combos": [["variable1", "variable3"], ["variable4"]],
+  "values": {
+    "fae56daf0": {
+      "variable1": "primary",
+      "variable3": "primary"
+    },
+    "03a17f36" : {
+      "variable4": "secondary"
+    }
+  }
+}
